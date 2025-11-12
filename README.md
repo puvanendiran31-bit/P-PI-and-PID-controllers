@@ -98,27 +98,30 @@ title('Pid-CONTROLLER')
 ## Output: 
 
 ### Without Controller (Open loop System)
-```
-<img width="343" height="277" alt="Screenshot 2025-11-01 142248" src="https://github.com/user-attachments/assets/cd9e9e4e-337d-44c6-99c2-69ded89a7603" />
 
-```
+<img width="343" height="277" alt="Screenshot 2025-11-01 142248" src="https://github.com/user-attachments/assets/5374188b-a8cc-43d7-8d23-a7899a7344ac" />
+
+
+
 
 ### With P-Controller
-```
-<img width="933" height="487" alt="Screenshot 2025-11-01 142331" src="https://github.com/user-attachments/assets/fe9b20e6-4949-483e-badd-467564db1ee3" />
-```
+
+<img width="933" height="487" alt="Screenshot 2025-11-01 142331" src="https://github.com/user-attachments/assets/a1f711dd-0117-41ee-9ed9-cf39e10c96e7" />
+
+
 
 ### With PI Controller
-```
-<img width="862" height="420" alt="Screenshot 2025-11-01 142414" src="https://github.com/user-attachments/assets/b45ae449-93f8-479b-8f2e-ccc2b405f390" />
 
-```
+<img width="862" height="420" alt="Screenshot 2025-11-01 142414" src="https://github.com/user-attachments/assets/62c51ef4-34b8-4392-a52d-8dcc7dde0976" />
+
+
 
 ### With PID Controller
-```
-<img width="845" height="440" alt="Screenshot 2025-11-01 142445" src="https://github.com/user-attachments/assets/58e0e4ba-873d-4c13-ae35-3ae1fa8f5dd0" />
 
-```
+<img width="845" height="440" alt="Screenshot 2025-11-01 142445" src="https://github.com/user-attachments/assets/7c2d7e75-53f0-40b7-b42a-62e3f0b7343d" />
+
+
+
 
 ## Result:
 Thus the P, PI and PID controllers for the given system was analysed and the following conclusions were arrived using MATLAB. <br>
